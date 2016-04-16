@@ -17,7 +17,7 @@ No. | Part-部分 | 页数 | 其他
 ? | 结语-Ending | ? | N\A
 0 | 封底-Cover | 1 | N\A
 
-## 进度 | Stuff
+## 进度 | Progress
 - [x] 策划 | Plan
 - [ ] 收集素材 | Collect footage   \[*In progress*\]
   - [ ] ?-介绍-Intro
