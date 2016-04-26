@@ -24,7 +24,7 @@ No. | Part-部分 | 页数 | 其他
   - [x] 1-班级-Classes
   - [x] 2-学生征文-Life
   - [x] 3-体育活动-Sports
-  - [x] 4-社团活动-Clues
+  - [x] 4-社团活动-Clubs
   - [ ] 5-教师寄语-Teachers
   - [ ] ?-结语-Ending
 - [ ] 设计排版 | Design   \[*Pending*\]
@@ -33,7 +33,7 @@ No. | Part-部分 | 页数 | 其他
   - [ ] 1-班级-Classes
   - [ ] 2-学生征文-Life
   - [ ] 3-体育活动-Sports
-  - [ ] 4-社团活动-Clues
+  - [ ] 4-社团活动-Clubs
   - [ ] 5-教师寄语-Teachers
   - [ ] ?-结语-Ending
   - [ ] 0-封底-Cover
@@ -45,6 +45,15 @@ No. | Part-部分 | 页数 | 其他
 ## 工作人员 | Stuff
 - 深圳中学 | Shenzhen Middle School
 - ISOTOPE Studio
+
+- Editors-in-Chief：秦楚玥、张皓明
+- Managing Editor：周青阳
+- Business Manager：王维维
+- Photographer：李昂、姚均翰
+- Clubs/Organizations Editor：赵书晗
+- Sports Editor：连成钿
+- Copy Editor：胡中天
+- Design: 谭健旋、刘建乐、殷嘉萱
 
 ## 鸣谢 | Acknowledgement
 - Students
