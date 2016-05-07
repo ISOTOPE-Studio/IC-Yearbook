@@ -28,15 +28,15 @@ No. | Part-部分 | 页数 | 其他
   - [ ] 5-教师寄语-Teachers
   - [ ] ?-结语-Ending
 - [ ] 设计排版 | Design   \[*Pending*\]
-  - [ ] 0-封面-Cover
-  - [ ] ?-介绍-Intro
-  - [ ] 1-班级-Classes
-  - [ ] 2-学生征文-Life
-  - [ ] 3-体育活动-Sports
-  - [ ] 4-社团活动-Clubs
-  - [ ] 5-教师寄语-Teachers
-  - [ ] ?-结语-Ending
-  - [ ] 0-封底-Cover
+  - [ ] 0-封面-Cover *Leon*
+  - [ ] ?-介绍-Intro *Leon*
+  - [ ] 1-班级-Classes *Olivia*
+  - [ ] 2-学生征文-Life *Frank*
+  - [ ] 3-体育活动-Sports *Mars*
+  - [ ] 4-社团活动-Clubs *Frank*
+  - [ ] 5-教师寄语-Teachers *Mars*
+  - [ ] ?-结语-Ending *Leon*
+  - [ ] 0-封底-Cover *Leon*
 - [ ] 审核 | Verify
 - [ ] 印刷发布 | Publish
  - [ ] 印刷 | Print
@@ -53,7 +53,7 @@ No. | Part-部分 | 页数 | 其他
 - Clubs/Organizations Editor：赵书晗
 - Sports Editor：连成钿
 - Copy Editor：胡中天
-- Design: 谭健旋、刘建乐、殷嘉萱
+- Design: 谭健旋、傅昌城、刘建乐、殷嘉萱
 
 ## 鸣谢 | Acknowledgement
 - Students
