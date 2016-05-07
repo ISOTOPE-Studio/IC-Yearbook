@@ -5,17 +5,42 @@
 
 ## 组成 | Sections
 
-No. | Part-部分 | 页数 | 其他
+No. | Part-部分 | Pages-页数 | 其他
 ---- | ---- | ---- | ----
 0 | 封面-Cover | 1 | N\A
 ? | 介绍-Intro | ? | N\A
-1 | 班级-Classes | 24 | 每个班一个跨页(2面)2*12
-2 | 学生征文-Life | 10±2 | N\A
-3 | 体育活动-Sports | 14 | N\A
-4 | 社团活动-Clues | 6 | N\A
-5 | 教师寄语-Teachers | ? | N\A
+1 | 班级-Classes | 24 | 介绍页、每个班一个跨页2*12
+2 | 学生征文-Life | 10±2 | 介绍页
+3 | 体育活动-Sports | 14 | 介绍页
+4 | 社团活动-Clues | 6 | 介绍页
+5 | 教师寄语-Teachers | ? | 介绍页
 ? | 结语-Ending | ? | N\A
 0 | 封底-Cover | 1 | N\A
+
+### 介绍 | Intro
+- 签名 4 页 (照片为背景)
+- 目录 2 页 (*? 文字引入*)
+
+### 班级 | Classes
+- 介绍 2 页
+- 每个班一个 2 页，共 12 个班级
+
+### 学生征文/体育活动/社团活动/教师寄语
+- 介绍 2 页
+- 内容页
+
+## 分工 | Division
+No. | Part-部分 | 排版
+---- | ---- | ----
+0 | 封面-Cover | Leon
+? | 介绍-Intro | Leon
+1 | 班级-Classes | Olivia
+2 | 学生征文-Life | Frank
+3 | 体育活动-Sports | Leon, Mars
+4 | 社团活动-Clues | Frank
+5 | 教师寄语-Teachers | Leon, Mars
+? | 结语-Ending | Leon
+0 | 封底-Cover | Leon
 
 ## 进度 | Progress
 - [x] 策划 | Plan
@@ -53,7 +78,7 @@ No. | Part-部分 | 页数 | 其他
 - Clubs/Organizations Editor：赵书晗
 - Sports Editor：连成钿
 - Copy Editor：胡中天
-- Design: 谭健旋、傅昌城、刘建乐、殷嘉萱
+- Design：谭健旋、傅昌城、刘建乐、殷嘉萱
 
 ## 鸣谢 | Acknowledgement
 - Students
