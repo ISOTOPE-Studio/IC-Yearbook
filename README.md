@@ -1,84 +1,72 @@
-# ÉîÛÚÖĞÑ§¹ú¼ÊÌåÏµÄê²á | SMS IC Yearbook
+ï»¿# æ·±åœ³ä¸­å­¦å›½é™…ä½“ç³»å¹´å†Œ | SMS IC Yearbook
 
-##Ö÷Ìâ | Theme
+æ·±åœ³ä¸­å­¦ | Shenzhen Middle School
+	
+[ISOTOPE Studio](http://isotopestudio.cc/)
+	
+##ä¸»é¢˜ | Theme
 > **I See**
 
-## ×é³É | Sections
+## ç»„æˆ | Sections
 
-No. | Part-²¿·Ö | Pages-Ò³Êı | ÆäËû
----- | ---- | ---- | ----
-0 | ·âÃæ-Cover | 1 | N\A
-? | ½éÉÜ-Intro | ? | N\A
-1 | °à¼¶-Classes | 24 | ½éÉÜÒ³¡¢Ã¿¸ö°àÒ»¸ö¿çÒ³2*12
-2 | Ñ§ÉúÕ÷ÎÄ-Life | 10¡À2 | ½éÉÜÒ³
-3 | ÌåÓı»î¶¯-Sports | 14 | ½éÉÜÒ³
-4 | ÉçÍÅ»î¶¯-Clues | 6 | ½éÉÜÒ³
-5 | ½ÌÊ¦¼ÄÓï-Teachers | ? | ½éÉÜÒ³
-? | ½áÓï-Ending | ? | N\A
-0 | ·âµ×-Cover | 1 | N\A
+No. | Part-éƒ¨åˆ† | Pages-é¡µæ•° | Page Number-é¡µç  | å…¶ä»–
+---- | ---- | ---- | ---- | ----
+0 | å°é¢-Front Cover | 1 | 0 | N\A
+0 | Signature | 6 | 0 | N\A
+1 | åˆ¶ä½œäººå‘˜,ç›®å½•-Staff,Content | 0-1 | 2 | N\A
+2 | ç­çº§-Classes | 26 | 2-27 | ä»‹ç»é¡µ,æ¯ä¸ªç­ä¸€ä¸ªè·¨é¡µ2*12
+3 | ä½“è‚²-Sports | 14 | 28-41 | ä»‹ç»é¡µ
+4 | æ´»åŠ¨-Activity | 10 | 42-51 | ä»‹ç»é¡µ
+5 | å­¦ç”Ÿå¾æ–‡,æ•™å¸ˆå¯„è¯­-Article | 9 | 52-60 | ä»‹ç»é¡µ
+6 | å­¦ç”Ÿç´¢å¼•,é¸£è°¢-Index,Acknowledgement | 8 | 61-65 | N\A
+0 | Signature | 2 | 0 | N\A
+0 | å°åº•-Back Cover | 1 | 0 | N\A
 
-### ½éÉÜ | Intro
-- Ç©Ãû 4 Ò³ (ÕÕÆ¬Îª±³¾°)
-- Ä¿Â¼ 2 Ò³ (*? ÎÄ×ÖÒıÈë*)
+## è¿›åº¦ | Progress
+- [x] ç­–åˆ’ | Plan
+- [x] æ”¶é›†ç´ æ | Collect footage 
+  - [x] 1-ç­çº§-Classes
+  - [x] 2-å­¦ç”Ÿå¾æ–‡-Life
+  - [x] 3-ä½“è‚²æ´»åŠ¨-Sports
+  - [x] 4-æ•™å¸ˆå¯„è¯­-Teachers
+- [x] è®¾è®¡æ’ç‰ˆ | Design
+  - [x] å°é¢-Front Cover
+  - [x] åˆ¶ä½œäººå‘˜,ç›®å½•-Staff,Content
+  - [x] ç­çº§-Classes
+  - [x] ä½“è‚²-Sports
+  - [x] æ´»åŠ¨-Activity
+  - [x] å­¦ç”Ÿå¾æ–‡,æ•™å¸ˆå¯„è¯­-Article
+  - [x] å­¦ç”Ÿç´¢å¼•,é¸£è°¢-Index,Acknowledgement
+  - [x] å°åº•-Back Cover
+- [x] å®¡æ ¸ | Verify
+- [x] å°åˆ·å‘å¸ƒ | Publish
+ - [ ] å°åˆ· | Print \[*In Progress*\]
+ - [ ] å‘æ”¾ | Distribute
 
-### °à¼¶ | Classes
-- ½éÉÜ 2 Ò³
-- Ã¿¸ö°àÒ»¸ö 2 Ò³£¬¹² 12 ¸ö°à¼¶
+## å·¥ä½œäººå‘˜ | Stuff
+- Editors-in-Chiefï¼šç§¦æ¥šç¥ã€å¼ çš“æ˜
+- Managing Editorï¼šå‘¨é’é˜³
+- Business Managerï¼šç‹ç»´ç»´
+- Photographerï¼šææ˜‚ã€å§šå‡ç¿°
+- Clubs/Organizations Editorï¼šèµµä¹¦æ™—
+- Sports Editorï¼šè¿æˆé’¿
+- Copy Editorï¼šèƒ¡ä¸­å¤©
+- Designï¼šè°­å¥æ—‹ã€å‚…æ˜ŒåŸã€åˆ˜å»ºä¹ã€æ®·å˜‰è±
 
-### Ñ§ÉúÕ÷ÎÄ/ÌåÓı»î¶¯/ÉçÍÅ»î¶¯/½ÌÊ¦¼ÄÓï
-- ½éÉÜ 2 Ò³
-- ÄÚÈİÒ³
+## å·¥ä½œäººå‘˜ | General Staff
+- å§šé€¸è½© - é«˜ä¸€ï¼ˆ15ï¼‰
+- èµµæ™ºæµ© - é«˜ä¸€ï¼ˆ15ï¼‰
+- å¤å‡Œé’° - é«˜ä¸€ï¼ˆ16ï¼‰
+- ä»»ç«¹å‰ - é«˜ä¸€ï¼ˆ16ï¼‰
+- å¼ éœ - é«˜ä¸€ï¼ˆ18ï¼‰
+- æ—èŠŠèŠŠ - é«˜ä¸€ï¼ˆ18ï¼‰
+- åˆ˜é¢–æ’ - é«˜ä¸€ï¼ˆ18ï¼‰
+- é‚±çºç¼ - é«˜ä¸€ï¼ˆ18ï¼‰
+- è°¢æ˜“æ ¼ - é«˜äºŒï¼ˆ18ï¼‰
+- èµµè½© - é«˜äºŒï¼ˆ19ï¼‰
+- è‰¾è‡» - é«˜äºŒï¼ˆ17ï¼‰
 
-## ·Ö¹¤ | Division
-No. | Part-²¿·Ö | ÅÅ°æ
----- | ---- | ----
-0 | ·âÃæ-Cover | Leon
-? | ½éÉÜ-Intro | Leon
-1 | °à¼¶-Classes | Olivia
-2 | Ñ§ÉúÕ÷ÎÄ-Life | Frank
-3 | ÌåÓı»î¶¯-Sports | Leon, Mars
-4 | ÉçÍÅ»î¶¯-Clues | Frank
-5 | ½ÌÊ¦¼ÄÓï-Teachers | Leon, Mars
-? | ½áÓï-Ending | Leon
-0 | ·âµ×-Cover | Leon
+## é¸£è°¢ | Acknowledgement
+ISOTOPE Studio
 
-## ½ø¶È | Progress
-- [x] ²ß»® | Plan
-- [ ] ÊÕ¼¯ËØ²Ä | Collect footage   \[*In progress*\]
-  - [ ] ?-½éÉÜ-Intro
-  - [x] 1-°à¼¶-Classes
-  - [x] 2-Ñ§ÉúÕ÷ÎÄ-Life
-  - [x] 3-ÌåÓı»î¶¯-Sports
-  - [x] 4-ÉçÍÅ»î¶¯-Clubs
-  - [ ] 5-½ÌÊ¦¼ÄÓï-Teachers
-  - [ ] ?-½áÓï-Ending
-- [ ] Éè¼ÆÅÅ°æ | Design   \[*Pending*\]
-  - [ ] 0-·âÃæ-Cover *Leon*
-  - [ ] ?-½éÉÜ-Intro *Leon*
-  - [ ] 1-°à¼¶-Classes *Olivia*
-  - [ ] 2-Ñ§ÉúÕ÷ÎÄ-Life *Frank*
-  - [ ] 3-ÌåÓı»î¶¯-Sports *Mars*
-  - [ ] 4-ÉçÍÅ»î¶¯-Clubs *Frank*
-  - [ ] 5-½ÌÊ¦¼ÄÓï-Teachers *Mars*
-  - [ ] ?-½áÓï-Ending *Leon*
-  - [ ] 0-·âµ×-Cover *Leon*
-- [ ] ÉóºË | Verify
-- [ ] Ó¡Ë¢·¢²¼ | Publish
- - [ ] Ó¡Ë¢ | Print
- - [ ] ·¢·Å | Distribute
-
-## ¹¤×÷ÈËÔ± | Stuff
-- ÉîÛÚÖĞÑ§ | Shenzhen Middle School
-- ISOTOPE Studio
-
-- Editors-in-Chief£ºÇØ³ş«h¡¢ÕÅğ©Ã÷
-- Managing Editor£ºÖÜÇàÑô
-- Business Manager£ºÍõÎ¬Î¬
-- Photographer£ºÀî°º¡¢Ò¦¾ùº²
-- Clubs/Organizations Editor£ºÕÔÊéêÏ
-- Sports Editor£ºÁ¬³Éîä
-- Copy Editor£ººúÖĞÌì
-- Design£ºÌ·½¡Ğı¡¢¸µ²ı³Ç¡¢Áõ½¨ÀÖ¡¢Òó¼Îİæ
-
-## ÃùĞ» | Acknowledgement
-- Students
+ACES Studio
